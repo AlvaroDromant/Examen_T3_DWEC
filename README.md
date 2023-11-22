@@ -1,2 +1,3 @@
 # Autor: # Alvaro Dromant Ligero (Estudiante)
-**Realizamos
+# GitHub: # 
+**Realizamos un proyecto para una compañia de televisiones**
